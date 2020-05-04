@@ -1,0 +1,4 @@
+python3
+sqlite3 module
+tkinter module
+pillow(PIL) image module
